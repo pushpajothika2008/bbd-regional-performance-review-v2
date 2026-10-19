@@ -1,3 +1,3 @@
-order_id,customer_id,item,quantity,amount,status,order_month
-101,1,Laptop,1,50000,completed,2026-10
-102,2,Phone,2,30000,completed,2026-10
+order_id,order_month,clean_first_name,clean_last_name,region,rep_name,item,category,unit_price,quantity,amount,revenue_calc,status
+101,2026-10,Rahul,Sharma,North,Prakash,Laptop,Electronics,50000,1,50000,50000,completed
+102,2026-10,Priya,Verma,South,Marimuthu,Phone,Electronics,15000,2,30000,30000,completed
